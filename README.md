@@ -12,7 +12,8 @@ The following **required** functionality is completed:
 - [ ] Newsfeed: Shows user the hottest food places in your area where the most people have checked in, and also where the most people with your food taste have checked in. 
 - [ ] Newsfeed: Also shows where your friends have checked in. 
 - [ ] Newsfeed: Tapping on a user image should bring up that user's profile page.
-- [ ] Compose Page: User can compose a check in of where they have last eaten. 
+- [ ] Compose Page: User can compose a check in of where they have last eaten.
+- [ ] Scroll down to refresh. 
 
 The following **optional** features are implemented:
 
