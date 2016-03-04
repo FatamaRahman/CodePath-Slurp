@@ -3,7 +3,7 @@
 ## User Stories
 SLURP! is a food taste profile app. It connects you to users with similar taste profiles, allows you to check in at restaurants, and create stats based upon your food profile. 
 
-The following **required** functionality is completed:
+The following **required** functionality will be completed:
 
 - [ ] User will be able to log in and log out.
 - [ ] Profile page:
@@ -15,7 +15,7 @@ The following **required** functionality is completed:
 - [ ] Compose Page: User can compose a check in of where they have last eaten.
 - [ ] Scroll down to refresh. 
 
-The following **optional** features are implemented:
+The following **optional** features will be implemented:
 
 - [ ] Find food stores in your area.
 - [ ] Implement a bar code scanner. 
